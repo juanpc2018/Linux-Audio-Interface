@@ -18,7 +18,7 @@ or buy AIO Pro with Newer technology, but Chasis is way cheaper 1/3.
 
 i'm done with Win & Mac, im out of that waggon.
 
-RME hdps9632 was very nice for Linux,
+RME hdsp9632 was very nice for Linux,
 with KX Studio 10.04 era... & AV Linux,
 
 but sensible to ATX PSU noise, Spread Spectrum Noise. etc....

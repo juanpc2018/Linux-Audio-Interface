@@ -115,4 +115,4 @@ https://github.com/geoffreybennett/alsa-scarlett-gui/blob/master/USAGE.md
 https://github.com/geoffreybennett/alsa-scarlett-gui
 
 Forum:
-linuxmusicians.com/
+www.linuxmusicians.com

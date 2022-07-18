@@ -113,3 +113,6 @@ https://github.com/PhilippeBekaert/hdspeconf
 Focusrite USB Scarlett Gen 2/3
 https://github.com/geoffreybennett/alsa-scarlett-gui/blob/master/USAGE.md
 https://github.com/geoffreybennett/alsa-scarlett-gui
+
+Forum:
+linuxmusicians.com/

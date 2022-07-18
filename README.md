@@ -108,7 +108,7 @@ Sadly Avid HDX does Not have Linux Support,
 DSP plugins sound awesome vs. CPU 
 same plugins, same mix, same settings.
 
-McDSP external Analog box, same...
+McDSP A16 / A8 external Analog box, same...
 sounds awesome, but No drivers for linux.
 
 Links:

@@ -12,7 +12,8 @@ Anyway... i have the legend: RME hdsp9632 PCI stored,
 IF i sell the Focusrite, 
 im undecided:
 to buy a PCIe to PCI chasis for the hdsp9632, 
-also i have a Lynx AES16 pci, but requires OSS drivers,
+also i have a Lynx AES16 pci, but requires OSS paid drivers,
+http://www.4front-tech.com/oss.html
 or buy AIO Pro with Newer technology, but Chasis is way cheaper 1/3.
 
 i'm done with Win & Mac, im out of that waggon.
@@ -94,16 +95,21 @@ in USB, buffer settings have audio drops every x time.
 if you monitor a constant Sine or Noise for several minuteson Win8.1x64.
 but if you Record, records ok, very odd USB drivers or older USB Firmware.
 
-i want RME for Linux but PCIe is risky & more $$$ vs. expanwsion chasis.
+i want RME AIO Pro for Linux but PCIe is risky & 3x more $$$ vs. expanwsion chasis.
 
 ...chasis will work?
 another Rabbit Hole.
-probably will require FW updates if possible.
+probably will require Ti FW updates if possible.
 
 im curious to hear the New SteadyClock FS, but too much $$ for No mic-pres.
 i think im going for the Chasis Rabbit Hole.
 
-Optional RME drivers, different than ALSA for hdsp9632.
+Sadly Avid HDX does Not have Linux Support,
+DSP plugins sound awesome vs. CPU 
+same plugins, same mix, same settings.
+
+Links:
+New RME drivers, different than ALSA drvs for hdsp9632. "A fork"
 https://github.com/PhilippeBekaert/snd-hdspe
 https://github.com/PhilippeBekaert/hdspeconf
 

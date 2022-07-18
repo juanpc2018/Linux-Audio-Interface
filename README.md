@@ -103,6 +103,7 @@ probably will require Ti FW updates if possible.
 
 im curious to hear the New SteadyClock FS, but too much $$ for No mic-pres.
 i think im going for the Chasis Rabbit Hole.
+older StreadyClock(TM) was ok for 48Khz, but 96Khz was Not good enough, using a better an external clock, hdsp9632 did improved.
 
 Sadly Avid HDX does Not have Linux Support,
 DSP plugins sound awesome vs. CPU 

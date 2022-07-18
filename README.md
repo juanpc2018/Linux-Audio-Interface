@@ -108,6 +108,9 @@ Sadly Avid HDX does Not have Linux Support,
 DSP plugins sound awesome vs. CPU 
 same plugins, same mix, same settings.
 
+McDSP external Analog box, same...
+sounds awesome, but No drivers for linux.
+
 Links:
 New RME drivers, different than ALSA drvs for hdsp9632. "A fork"
 https://github.com/PhilippeBekaert/snd-hdspe

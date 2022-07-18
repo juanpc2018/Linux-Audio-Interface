@@ -2,9 +2,6 @@
 
 i kind of regret purchasing Focusrite Clarett 8pre USB,
 
- i regret purchasing Focusrite Clarett 8pre USB
-
- 
 requires a Control software that Focusrite does Not want to help translate to Linux,
 everything works but DSP cannot be controlled on Linux.
 works in Wine but does Not have USB passthrough.

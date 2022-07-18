@@ -6,7 +6,7 @@ requires a Control software that Focusrite does Not want to help translate to Li
 everything works but DSP cannot be controlled on Linux.
 works in Wine but does Not have USB passthrough.
 
-did found a sollution for an issue with USB Audio & PulseAudio.
+did found a sollution for the issue with USB Audio & PulseAudio.
 
 Anyway... i have the legend: RME hdsp9632 PCI stored,
 IF i sell the Focusrite, 

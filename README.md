@@ -92,7 +92,7 @@ Rabbit Hole.
 
 in USB, buffer settings have audio drops every x time.
 if you monitor a constant Sine or Noise for several minuteson Win8.1x64.
-but if you Record, records ok, very odd USB drivers.
+but if you Record, records ok, very odd USB drivers or older USB Firmware.
 
 i want RME for Linux but PCIe is risky & more $$$ vs. expanwsion chasis.
 
